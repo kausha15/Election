@@ -1,2 +1,2 @@
 # election
- BlockChain election project from dapp university
+ BlockChain election project.
